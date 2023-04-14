@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Git !
+- 🌱 I’m currently learning Git, Linux, VS Code, Javascript, CSS!
+- 👯 I’m looking to collaborate on new projects!
